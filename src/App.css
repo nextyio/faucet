@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.App h1 {
+  font-size: 20px;
+  color: white;
+}
+
+.App-logo {
+	height: 100px;
+	margin: 50px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  color: white;
+}
+
+.ant-typography {
+  color: white !important;
+}
