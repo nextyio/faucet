@@ -4,7 +4,7 @@ This is frontend of Faucet system for Testnet of Nexty Platform. If you want to 
 
 `npm install`
 
-### Start your development frontend
+### Start your frontend development
 
 `npm start`
 
