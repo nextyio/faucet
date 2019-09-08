@@ -28,7 +28,7 @@ class App extends Component {
 	}
   onResolved() {
 			var self = this;
-			fetch('http://localhost:3000/requestnty', {
+			fetch('http://api.faucet.testnet.nexty.io/requestnty', {
 				method: 'POST',
 				headers: {
 					'Accept': 'application/json',
